@@ -29,9 +29,9 @@ canvas = {}
 font = {}
 audio = {thread = {}, channels = {}}
 parameters = {maxScore = 0,
-			  shaderSetting = 1,
-			  music = 1.0,
-			  sounds = 1.0}
+			  shaderSetting = 3,
+			  music = 10,
+			  sounds = 10}
 
 --First layer input handling	
 inputLock = {}
